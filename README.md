@@ -34,7 +34,7 @@ The repository tracks all Python notebooks, MATLAB scripts, documentation, and c
 6. **Deployment**: Generated HDL is uploaded to Intel FPGA DevCloud for synthesis, place-and-route, and bitstream generation.
 7. **Evaluation**: Inference latency and resource utilization are compared between GPU (baseline) and FPGA implementations.
 
-![System Architecture](docs/systemdesign.jpg)  
+![System Architecture](docs/systemdesign.png)  
 *Figure 1: Data flow from Google Drive through Python preprocessing, MATLAB training, and HDL code generation targeting FPGA deployment.*
 
 ---
